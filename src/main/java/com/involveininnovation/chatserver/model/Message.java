@@ -13,4 +13,5 @@ public class Message {
     private String message; // 메시지 내용
     private String date; // 시간? 날짜
     private Status status; // ? 상태라는데
+    private String profileImage;
 }
